@@ -1,0 +1,14 @@
+[
+  {
+    "train_number": "19269",
+    "train_name": "Porbandar Muzaffarpur Express",
+    "id": 309362.0,
+    "day": 1.0,
+    "actual_arrival": "2024-02-24T20:30:00",
+    "actual_departure": "2024-02-24T20:32:00",
+    "station_code": "LXR",
+    "station_name": "LUNSERIYA",
+    "row_timestamp": "2024-02-24T20:33:00",
+    "zone": "NOTAVLBLE"
+  }
+]
