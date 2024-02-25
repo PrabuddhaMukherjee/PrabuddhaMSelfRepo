@@ -1,0 +1,14 @@
+[
+  {
+    "train_number": "12260",
+    "train_name": "New Delhi-Sealdah AC Duronto Express",
+    "id": 41767.0,
+    "day": 1.0,
+    "actual_arrival": "2024-02-24T20:07:00",
+    "actual_departure": "2024-02-24T20:10:00",
+    "station_code": "TKJ",
+    "station_name": "TILAK BRIDGE",
+    "row_timestamp": "2024-02-24T20:11:00",
+    "zone": "NOTAVLBLE"
+  }
+]
