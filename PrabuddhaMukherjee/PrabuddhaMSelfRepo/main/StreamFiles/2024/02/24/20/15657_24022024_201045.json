@@ -1,0 +1,14 @@
+[
+  {
+    "train_number": "15657",
+    "train_name": "KOLKATA SEALDAH - GUWAHATI KanchanJungha Exp",
+    "id": 526385.0,
+    "day": 1.0,
+    "actual_arrival": "2024-02-24T20:01:00",
+    "actual_departure": "2024-02-24T20:06:00",
+    "station_code": "DQG",
+    "station_name": "DHUPGURI",
+    "row_timestamp": "2024-02-24T20:06:00",
+    "zone": "NOTAVLBLE"
+  }
+]
